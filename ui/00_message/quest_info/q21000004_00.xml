@@ -1,18 +1,24 @@
-﻿<resource>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resource>
   <message>
     <key>q21000004_00_316</key>
     <original>魔女の噂</original>
+    <translation>Rumours of a Witch</translation>
   </message>
   <message>
     <key>q21000004_00_316</key>
     <original>【納品クエスト】
 依頼者の願いを聞き入れ
 指定された物資を集めてくる</original>
+    <translation>[Delivery Quest]
+Find out what the client needs
+and deliver the requested goods</translation>
   </message>
   <message>
     <key>q21000004_00_316</key>
     <original>物資を必要としている人物が
 &lt;NAME AREA&gt;から協力を求めている</original>
+    <translation>Someone in need of goods is seeking help from &lt;NAME AREA&gt;</translation>
   </message>
   <message>
     <key>q21000004_00_316</key>
@@ -21,6 +27,10 @@
 とって喰われでもするんじゃないかってのう――
 子どもが呪文なんか唱えた日にゃ
 驚いてそのまま昇天しそうじゃわい</original>
+    <translation>The forest witch seems quite close with the kids
+but the adults of the village fear they'll be eaten.
+One day a child chanted something like a magic spell
+and it was quite an amazing surprise</translation>
   </message>
   <message>
     <key>q21000004_00_1179</key>
